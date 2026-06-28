@@ -1,4 +1,4 @@
-site_name: Contexture Lab.
+site_name: Maiko's Work 
 site_url: https://contexture-lab.com
 
 theme:
@@ -10,6 +10,10 @@ theme:
 plugins:
   - search
 
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
 extra_css:
   -  stylesheets/extra.css
 
@@ -17,7 +21,6 @@ nav:
   - Home: index.md
   - Contexture Lab.:
       - Overview: contexture/overview.md
+      - Resume: contexture/resume.md
   - えるあの葉:
       - Overview: eru/concept.md
-  - Career:
-      - Resume: contexture/resume.md

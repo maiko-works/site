@@ -1,7 +1,22 @@
 :root {
-
   --md-primary-fg-color: #2559A6;
   --md-primary-fg-color--light: #3A6FC7;
   --md-primary-fg-color--dark: #1C4387;
+}
 
+/* Activities card logos */
+.md-typeset .grid.cards img.logo-contexture {
+  display: block;
+  height: 165px !important;
+  width: auto !important;
+  max-width: none !important;
+  margin: 0.8rem  auto 2.5rem auto !important;
+}
+
+.md-typeset .grid.cards img.logo-eru {
+  display: block;
+  height: 200px !important;
+  width: auto !important;
+  max-width: none !important;
+  margin: 0 auto 0.25rem auto !important;
 }
