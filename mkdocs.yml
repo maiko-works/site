@@ -1,0 +1,23 @@
+site_name: Contexture Lab.
+site_url: https://contexture-lab.com
+
+theme:
+  name: material
+  language: ja
+  palette:
+    primary: blue
+
+plugins:
+  - search
+
+extra_css:
+  -  stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Contexture Lab.:
+      - Overview: contexture/overview.md
+  - えるあの葉:
+      - Overview: eru/concept.md
+  - Career:
+      - Resume: contexture/resume.md
