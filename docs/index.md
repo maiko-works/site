@@ -1,7 +1,7 @@
 ## About
 
 <!-- プロフィール写真を入れる場合は、docs/images/profile.jpg を配置して下の行を有効化 -->  
-<!-- <img src="images/profile.jpg" width="180" alt="石川麻衣子 プロフィール写真"> -->
+<img src="images/profile-4x5.png" class="profile-photo" alt="石川麻衣子 プロフィール写真">
 # 石川 麻衣子 (ISHIKAWA, Maiko)
 
 グローバル技術と地域資源。
@@ -53,7 +53,7 @@
     **Links**
 
     - [note](https://note.com/mimio_white)
-    - [X](https://x.com/mimio0910)
+    - [X](https://x.com/mimio0910?s=11&t=F-nzCus24G5Qeengilx3Lw)
 
     **Contact**
 
@@ -78,7 +78,7 @@
     **Links**
 
     - [note](https://note.com/frond_of_eru)
-    - [X](https://x.com/craft_farm_eru)
+    - [X](https://x.com/craft_farm_eru?s=11&t=F-nzCus24G5Qeengilx3Lw)
 
     **Contact**
 

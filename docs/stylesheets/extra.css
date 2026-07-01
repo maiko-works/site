@@ -20,3 +20,10 @@
   max-width: none !important;
   margin: 0 auto 0.25rem auto !important;
 }
+
+.profile-photo {
+  width: 220px;
+  height: auto;
+  border-radius: 4px;
+  margin: 0 0 1.2rem 0;
+}
