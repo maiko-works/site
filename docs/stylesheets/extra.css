@@ -1,9 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Noto+Sans+JP:wght@400;500&display=swap');
+
 :root {
   --md-primary-fg-color: #2559A6;
   --md-primary-fg-color--light: #3A6FC7;
   --md-primary-fg-color--dark: #1C4387;
 }
 
+.md-typeset{
+font-family:
+'Inter',
+'Noto Sans JP',
+sans-serif;
+}
+
+.md-typeset h1{
+font-weight:500;
+letter-spacing:-0.02em;
+}
+.md-typeset h2{
+font-weight:500;
+}
 /* Activities card logos */
 .md-typeset .grid.cards img.logo-contexture {
   display: block;
@@ -26,4 +42,9 @@
   height: auto;
   border-radius: 4px;
   margin: 0 0 1.2rem 0;
+}
+
+.profile-name{
+font-size:2rem;
+font-weight:400;
 }

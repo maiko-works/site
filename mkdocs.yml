@@ -1,4 +1,4 @@
-site_name: Maiko's Work 
+site_name: Maiko's Work
 site_url: https://contexture-lab.com
 
 theme:
@@ -6,16 +6,20 @@ theme:
   language: ja
   palette:
     primary: blue
+  font:
+    text: false
+    code: Roboto Mono
 
 plugins:
   - search
+  - glightbox
 
 markdown_extensions:
   - attr_list
   - md_in_html
 
 extra_css:
-  -  stylesheets/extra.css
+  - stylesheets/extra.css
 
 nav:
   - Home: index.md
