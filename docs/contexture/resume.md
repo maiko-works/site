@@ -1,16 +1,5 @@
 # 職務経歴書
 
-## 1. 個人データ
-- 氏名 : 石川 麻衣子 (ISHIKAWA, Maiko)
-- 職務：Bridge Engineer |  Technical Facilitator
-- Github : [maiko-works](https://github.com/maiko-works/maiko-works)
-- HP : http://contexture-lab.com/
-
----
-
-
-# 職務経歴書
-
 ### **石川 麻衣子（ISHIKAWA, Maiko）**
 ブリッジエンジニア／Technical Facilitator
 - HP : http://contexture-lab.com/
