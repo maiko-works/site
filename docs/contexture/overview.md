@@ -87,5 +87,3 @@ Contexture Lab.では、それを誰かの能力や性格の問題ではなく�
 ## Career
 
 経歴はこちら。
-
-[職務経歴書を見る](resume.md)
