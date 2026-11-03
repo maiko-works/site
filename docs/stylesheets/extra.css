@@ -49,3 +49,22 @@ font-weight:500;
 font-size:2rem;
 font-weight:400;
 }
+
+/* Resume project cases: match the border and spacing of Activities cards. */
+.md-typeset .resume-project-card {
+  background-color: #E8F0FA;
+  border: .05rem solid var(--md-default-fg-color--lightest);
+  border-radius: .1rem;
+  margin: 1.25em 0;
+  padding: 1em;
+  display: flow-root;
+  overflow-wrap: anywhere;
+}
+
+.md-typeset .resume-project-card > h4:first-child {
+  margin-top: 0;
+}
+
+.md-typeset .resume-project-card > :last-child {
+  margin-bottom: 0;
+}
