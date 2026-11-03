@@ -25,9 +25,6 @@ nav:
   - Home: index.md
   - Contexture Lab.:
       - Overview: contexture/overview.md
+      - Resume: contexture/resume.md
   - えるあの葉:
       - Overview: eru/concept.md
-
-# 職務経歴書は一時的に公開対象から除外
-exclude_docs: |
-  contexture/resume.md
